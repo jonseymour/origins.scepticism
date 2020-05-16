@@ -4,9 +4,9 @@ This post does not argue the Wuhan Institute of Virology (WIV) lab cooked up SAR
 
 It does argue that one cannot scientifically exclude the possibility that the WIV lab was working on either SARS-CoV-2 or its immediate progenitor, they lost control of it, and the virus escaped into the community.
 
-One can argue against the possibility on social grounds — “the scientists are all good people who would never lie or cover-up such a lab release despite the global condemnation they would face if their involvement was revealed not to mention the risk of punishment by an authoritarian regime”. You can do that, but that is not a scientific argument, it is a social one and not a particularly convincing one at that.
+One can argue against the possibility on social grounds — “the scientists are all good people who would never lie or cover-up such a lab escape despite the global condemnation they would face if their involvement was revealed not to mention the risk of punishment by an authoritarian regime”. You can do that, but that is not a scientific argument, it is a social one and not a particularly convincing one at that.
 
-Please understand, this post is not asserting that a lab release occurred. It does **not** seem **unlikely** to me, given the circumstantial evidence, but no-one has ironclad proof that it did. On the other hand, there is no really strong reason of any kind, let alone of a scientific kind, to believe the opposite — that a lab release **did not** occur.
+Please understand, this post is not asserting that a lab escape occurred. It does **not** seem **unlikely** to me, given the circumstantial evidence, but no-one has ironclad proof that it did. On the other hand, there is no really strong reason of any kind, let alone of a scientific kind, to believe the opposite — that a lab escape **did not** occur.
 
 We already know that the WIV lab held either the specimen or full genome of RaTG13 for 7 years prior to publishing the genome immediately after the SARS-CoV-2 outbreak. This means, it is at least conceivable they had other specimens that they had not published sequences for, particularly ones like SARS-CoV-2 which is only vaguely (~78%) similar to SARS-CoV.
 
@@ -17,3 +17,5 @@ The interest since at least March 2019 in the pangolin CoV which shares a recept
 One can argue that this a just-so story that fits all the known facts and is immune from falsification, because it is. But then, so is every other origin story which has been offered. Whether it is an animal in a cage arriving at Wuhan Seafood market from literally anywhere else or a traveller who had visited Yunnan bat caves and caught the fast train back to Wuhan.
 
 By the way, even the train traveller from Yunnan story doesn’t exclude WIV lab involvement — it might have been a researcher visiting the bat caves to collect samples. Certainly that is more likely than a travelling salesman selling pillow cases or whoever else might be on such a train.
+
+**update**: changed terminology from 'lab release' to 'lab escape' since 'lab release' suggests an intentional release of the virus from the lab, which is not the intended interpretation.
